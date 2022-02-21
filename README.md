@@ -1,4 +1,5 @@
-![](./header.png)
+[![](./header.png)](#)
+
 <hr/>
  <p class="social" align="center">   
         <a href="mailto:gui@whosthis.dev" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00B9EC"></a>
